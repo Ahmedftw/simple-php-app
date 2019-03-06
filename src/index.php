@@ -44,6 +44,7 @@ if($rs === false) {
 </h2>
 <p>The time is <?php echo $date; ?></p>
 <p>Server IP is <?php echo $serverIP; ?></p>
+<p>Server IP is <?php echo $serverIP; ?></p>
 <p>Content of the first table row: <?php echo $row[0]; ?></p>
 </body>
 </html>
